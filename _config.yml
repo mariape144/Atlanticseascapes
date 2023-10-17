@@ -52,7 +52,7 @@ metadata: atlanticseascapes_metadata
 #
 organization-name: "Atlantic Seascapes Archive"
 organization-link: 
-organization-logo-banner: 
+organization-logo-banner: logo.jpg
 organization-logo-nav: 
 
 ##########
@@ -67,7 +67,7 @@ organization-logo-nav:
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+ noindex: true 
 
 ##########
 # BUILD SETTINGS 
