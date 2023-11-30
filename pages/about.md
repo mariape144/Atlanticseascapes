@@ -20,10 +20,9 @@ A pesar de la gran importancia que tuvo el Caribe, muchos de los documentos nece
 Empezamos esta iniciativa con los documentos de la Secretaría de Marina de Colombia, que entre 1816 y 1830 tenía también documentación de los actuales Venezuela, Colombia, Panamá y Ecuador. Esta documentación se resguarda en el Archivo General de la Nación, Sección República, Fondo Guerra y Marina. Este cuerpo documental no está digitalizado por parte del AGN y las descripciones del catálogo impreso no siempre son útiles para la investigación. 
 
 Por tanto, en aras de poner estos documentos al público, este proyecto ha iniciado con dos facetas distintas pero complementarias. Por un lado, la parte archivística que constó de digitalización y descripción documental, que forma el alma de este proyecto. Dos historiadores de la Universidad de Cartagena han hecho este esfuerzo posible: Meliza Pinzón y Juan Diego Suárez. Por otro lado, el diseño web, que constó del apoyo de [Caribbean Digital Scholarship Collective (CDSC)](https://cdscollective.org/) y de Cornell Library Digital Humanities, en particular de Eliza Betinger e Iliana Burgos, a quienes agradezco infinitamente. Por último, agradezco a la Universidad de Idaho por haber desarrollado este formato de [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv)., que es esqueleto de esta página web. 
-
 ## Sobre nosotros
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+{% include feature/image.html objectid="Fotomeliza.jpeg" width="75" %} 
 
 # Meliza Pinzón. 
 {% include feature/image.html objectid="Fotomeliza.jpeg" width="75" %} 
