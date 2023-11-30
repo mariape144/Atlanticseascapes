@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/objects/agn_smp_4_80a.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="Atlantic Seascapes;Sobre nosotros" %}
 
 ## Sobre Atlantic Seascapes Project
 
