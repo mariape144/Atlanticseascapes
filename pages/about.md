@@ -26,7 +26,8 @@ Por tanto, en aras de poner estos documentos al público, este proyecto ha inici
 Soy historiadora por la Universidad de Cartagena, Colombia. Hago parte del grupo de investigación H-ESOPO (Historia económica, social y política) del Laboratorio de Investigación Histórica en Estudios Coloniales de la misma institución. Me interesa la historia social y económica a través del estudio de las instituciones comerciales del imperio español durante la edad moderna, al analizarlas desde los propios actores, sus redes y estrategias.  
 Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acceso y el análisis a la información de la historia del Caribe y el Atlántico.
 
-![Meliza Pinzón](/objects/Fotomeliza.jpeg). 
+{% include feature/card.html header="Meliza Pinzón" text="Soy historiadora por la Universidad de Cartagena, Colombia. Hago parte del grupo de investigación H-ESOPO (Historia económica, social y política) del Laboratorio de Investigación Histórica en Estudios Coloniales de la misma institución. Me interesa la historia social y económica a través del estudio de las instituciones comerciales del imperio español durante la edad moderna, al analizarlas desde los propios actores, sus redes y estrategias.  
+Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acceso y el análisis a la información de la historia del Caribe y el Atlántico." objectid="/objects/Fotomeliza.jpeg" width="25" centered=true %}
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/visorpdf.md %} 
