@@ -23,11 +23,11 @@ Por tanto, en aras de poner estos documentos al público, este proyecto ha inici
 ## Sobre nosotros
 {% include feature/image.html objectid="/objects/Fotomeliza.jpeg" width="15" alt="Meliza Pinzón" caption=""%}
 # Meliza Pinzón. 
-Soy historiadora por la Universidad de Cartagena, Colombia. Hago parte del grupo de investigación H-ESOPO (Historia económica, social y política) del Laboratorio de Investigación Histórica en Estudios Coloniales de la misma institución. Me interesa la historia social y económica a través del estudio de las instituciones comerciales del imperio español durante la edad moderna, al analizarlas desde los propios actores, sus redes y estrategias.  
-Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acceso y el análisis a la información de la historia del Caribe y el Atlántico.
-
 {% include feature/card.html header="Meliza Pinzón" text="Soy historiadora por la Universidad de Cartagena, Colombia. Hago parte del grupo de investigación H-ESOPO (Historia económica, social y política) del Laboratorio de Investigación Histórica en Estudios Coloniales de la misma institución. Me interesa la historia social y económica a través del estudio de las instituciones comerciales del imperio español durante la edad moderna, al analizarlas desde los propios actores, sus redes y estrategias.  
 Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acceso y el análisis a la información de la historia del Caribe y el Atlántico." objectid="/objects/Fotomeliza.jpeg" width="25" centered=true %}
+{% include feature/card.html header="Juan Diego Suárez" text="Mi nombre es Juan Diego Suarez Meza, tengo 22 años y soy estudiante de historia de la Universidad de Cartagena. Mi campo de investigación es la historia ambiental, para mi resulta fascinante estudiar cómo la naturaleza y la sociedad humana chocan y se entrelazan construyendo relaciones históricas que pueden rastrearse y contrastarse. Pienso que Seascapes Project no solo representa un acceso documental digital como otros que ya existen sino que ejemplifica la búsqueda y lucha por construir una historia marítima interdisciplinar, con horizontes que van más allá del sujeto histórico como individuo, preocupándose por sus relaciones y el espacio que habitaba." objectid="/objects/FotoJD.jpeg" width="25" centered=true %}
+
+
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/visorpdf.md %} 
