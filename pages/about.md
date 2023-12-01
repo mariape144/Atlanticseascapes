@@ -40,6 +40,19 @@ Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acces
 
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: center; width: 48%;">
+    <img src="/objects/Fotomeliza.jpeg" alt="Image 1" width="40%">
+    <p>Description for Image 1</p>
+  </div>
+  <div style="text-align: center; width: 48%;">
+     <img src="/objects/FotoJD.jpeg" alt="Image 2" width="40%">
+    <p>Description for Image 2</p>
+  </div>
+</div>
+
+</div>
+
 {% include feature/card.html objectid="/objects/Fotomeliza.jpeg;/objects/FotoJD.jpeg" caption="this guy!;(was nothing without these women!)" link="https://www.lib.uidaho.edu/digital/psychiana/items/psychiana519.html;https://www.lib.uidaho.edu/digital/psychiana/items/psychiana547.html" alt="Frank B. Robinson at the Organ;Women staff members of Psychiana lined up outside the Psychiana headquarters" %}
 
 {% include feature/card.html objectid="/objects/Fotomeliza.jpeg;FotoJD.jpeg" caption="this guy!;(was nothing without these women!)" link="https://www.lib.uidaho.edu/digital/psychiana/items/psychiana519.html;https://www.lib.uidaho.edu/digital/psychiana/items/psychiana547.html" alt="Frank B. Robinson at the Organ;Women staff members of Psychiana lined up outside the Psychiana headquarters" %}
