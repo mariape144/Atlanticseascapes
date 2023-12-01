@@ -54,6 +54,7 @@ Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acces
     </div>
 </div>
 
+{% include feature/cardII.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="/objects/Fotomeliza.jpeg" width="25" centered=true %}
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/visorpdf.md %} 

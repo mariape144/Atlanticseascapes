@@ -1,0 +1,21 @@
+<div class="card mb-3{% if include.float %} feature-float-{{ include.float }}{% endif %}{% if include.width %} feature-w-{{ include.width }}{% endif %}{% if include.centered %} mx-auto{% endif %}">
+    <div class="row no-gutters">
+        <div class="col-md-6">
+            {% if include.src1 %}
+                <img class="card-img-top" src="{{ include.src1 }}" alt="{{ include.alt1 | escape }}">
+                {% if include.caption1 %}<div class="card-img-caption">{{ include.caption1 }}</div>{%- endif -%}
+            {% endif %}
+        </div>
+        <div class="col-md-6">
+            {% if include.src2 %}
+                <img class="card-img-top" src="{{ include.src2 }}" alt="{{ include.alt2 | escape }}">
+                {% if include.caption2 %}<div class="card-img-caption">{{ include.caption2 }}</div>{%- endif -%}
+            {% endif %}
+        </div>
+    </div>
+    {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{%- endif -%}
+    <div class="card-body">
+        {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{%- endif -%}
+        <div class="card-text">{{ include.text | markdownify }}</div>
+    </div>
+</div>
