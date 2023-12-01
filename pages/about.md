@@ -41,12 +41,6 @@ Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acces
 
 </div>
 
-{% include feature/card.html objectid="/objects/Fotomeliza.jpeg;/objects/FotoJD.jpeg" caption="this guy!;(was nothing without these women!)" link="https://www.lib.uidaho.edu/digital/psychiana/items/psychiana519.html;https://www.lib.uidaho.edu/digital/psychiana/items/psychiana547.html" alt="Frank B. Robinson at the Organ;Women staff members of Psychiana lined up outside the Psychiana headquarters" %}
-
-{% include feature/card.html objectid="/objects/Fotomeliza.jpeg;FotoJD.jpeg" caption="this guy!;(was nothing without these women!)" link="https://www.lib.uidaho.edu/digital/psychiana/items/psychiana519.html;https://www.lib.uidaho.edu/digital/psychiana/items/psychiana547.html" alt="Frank B. Robinson at the Organ;Women staff members of Psychiana lined up outside the Psychiana headquarters" %}
-
-{% include feature/card.html objectid="/objects/Fotomeliza.jpeg" caption="this guy!;(was nothing without these women!)" link="https://www.lib.uidaho.edu/digital/psychiana/items/psychiana519.html;https://www.lib.uidaho.edu/digital/psychiana/items/psychiana547.html" alt="Frank B. Robinson at the Organ;Women staff members of Psychiana lined up outside the Psychiana headquarters" %}
-
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/visorpdf.md %} 
 {% include cb/about_the_about.md %} 
