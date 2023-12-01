@@ -32,11 +32,34 @@ Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acces
   </div>
   <div style="width: 40%;">
      <img src="/objects/FotoJD.jpeg" alt="FotoJD" style="display: block; margin: 0 auto;" width="45%">
-    <h2 style="text-align: center;">Juan Diego Suárez</h2>
+    <h3 style="text-align: center;">Juan Diego Suárez</h3>
     <p style="text-align: left;">Mi nombre es Juan Diego Suarez Meza, tengo 22 años y soy estudiante de historia de la Universidad de Cartagena. Mi campo de investigación es la historia ambiental, para mi resulta fascinante estudiar cómo la naturaleza y la sociedad humana chocan y se entrelazan construyendo relaciones históricas que pueden rastrearse y contrastarse. Pienso que Seascapes Project no solo representa un acceso documental digital como otros que ya existen sino que ejemplifica la búsqueda y lucha por construir una historia marítima interdisciplinar, con horizontes que van más allá del sujeto histórico como individuo, preocupándose por sus relaciones y el espacio que habitaba.</p>
 </div>
 
 </div>
+
+<div class="card mb-3{% if include.float %} feature-float-{{ include.float }}{% endif %}{% if include.width %} feature-w-{{ include.width }}{% endif %}{% if include.centered %} mx-auto{% endif %}">
+    <div class="row no-gutters">
+        <div class="col-md-6">
+            {% if include.src1 %}
+                <img class="card-img-top" src="/objects/Fotomeliza.jpeg" alt="{{ include.alt1 | escape }}">
+                {% if include.caption1 %}<div class="card-img-caption">foto meliza</div>{%- endif -%}
+            {% endif %}
+        </div>
+        <div class="col-md-6">
+            {% if include.src2 %}
+                <img class="card-img-top" src="/objects/Fotomeliza.jpeg" alt="{{ include.alt2 | escape }}">
+                {% if include.caption2 %}<div class="card-img-caption">foto meliza</div>{%- endif -%}
+            {% endif %}
+        </div>
+    </div>
+    {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{%- endif -%}
+    <div class="card-body">
+        {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{%- endif -%}
+        <div class="card-text">{{ include.text | markdownify }}</div>
+    </div>
+</div>
+
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/visorpdf.md %} 
