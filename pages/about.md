@@ -34,8 +34,8 @@ Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acces
 # My Markdown Card
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/objects/Fotomeliza.jpeg" alt="Image 1" width="30%">
-  <img src="/objects/FotoJD.jpeg" alt="Image 2" width="30%">
+  <img src="/objects/Fotomeliza.jpeg" alt="Image 1" width="40%">
+  <img src="/objects/FotoJD.jpeg" alt="Image 2" width="40%">
 </div>
 
 </div>
