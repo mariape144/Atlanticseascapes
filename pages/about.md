@@ -49,7 +49,7 @@ Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acces
   </div>
   <div style="width: 40%;">
      <img src="/objects/FotoJD.jpeg" alt="FotoJD" style="display: block; margin: 0 auto;" width="45%">
-    <h2>Juan Diego Suárez</h2>
+    <h2 style="text-align: center;">Juan Diego Suárez</h2>
     <p style="text-align: left;">Mi nombre es Juan Diego Suarez Meza, tengo 22 años y soy estudiante de historia de la Universidad de Cartagena. Mi campo de investigación es la historia ambiental, para mi resulta fascinante estudiar cómo la naturaleza y la sociedad humana chocan y se entrelazan construyendo relaciones históricas que pueden rastrearse y contrastarse. Pienso que Seascapes Project no solo representa un acceso documental digital como otros que ya existen sino que ejemplifica la búsqueda y lucha por construir una historia marítima interdisciplinar, con horizontes que van más allá del sujeto histórico como individuo, preocupándose por sus relaciones y el espacio que habitaba.</p>
   </div>
 </div>
