@@ -31,8 +31,8 @@ Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acces
 
 # My Markdown Card
 
-![Image 1](/objects/Fotomeliza.jpeg)
-![Image 2](/objects/FotoJD.jpeg)
+![Image 1](Fotomeliza.jpeg)
+![Image 2](FotoJD.jpeg)
 
 </div>
 
