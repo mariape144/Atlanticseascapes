@@ -29,7 +29,7 @@ Por tanto, en aras de poner estos documentos al público, este proyecto ha inici
   <div style="width: 40%;">
     <img src="/objects/FotoMP" alt="FotoMP" style="display: block; margin: 0 auto;" width="40%">
     <h3 style="text-align: center;">María Paula Corredor</h3>
-    <p style="text-align: left;">Soy historiadora y archivista colombiana. Actualmente estoy estudiando el doctorado en historia en la ![Universidad de Cornell](https://history.cornell.edu/maria-corredor-acosta). Hago parte de Latin American and the Caribbean Studies de la misma universidad. Mis investigaciones se centran en la historia de América Latina colonial y del Caribe. Aunque soy historiadora, siempre me ha apasionado la antropología y la geografía. Por ello, abordo la historia desde una perspectiva interdisciplinaria que tiene en cuenta las relaciones de las personas con el espacio. 
+    <p style="text-align: left;">Soy historiadora y archivista colombiana. Actualmente estoy estudiando el doctorado en historia en la Universidad de Cornell. Hago parte de Latin American and the Caribbean Studies de la misma universidad. Mis investigaciones se centran en la historia de América Latina colonial y del Caribe. Aunque soy historiadora, siempre me ha apasionado la antropología y la geografía. Por ello, abordo la historia desde una perspectiva interdisciplinaria que tiene en cuenta las relaciones de las personas con el espacio. 
     Este proyecto para mí es la oportunidad de explorar el Atlántico como espacio de encuentros, pero también de poner a disposición de un público amplio los documentos que de otra manera no podrían consultarse. En especial, aspiro a que estas colecciones sean útiles para los estudiantes e investigadores de Colombia, Venezuela y Panamá que busquen entender nuestra propia historia. 
 </p>
   </div>
@@ -41,8 +41,10 @@ Por tanto, en aras de poner estos documentos al público, este proyecto ha inici
 </p>
 </div>
 
-
+<div>
 ## <center>Equipo archivista</center> 
+</div>
+
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 40%;">
     <img src="/objects/Fotomeliza.jpeg" alt="FotoMeliza" style="display: block; margin: 0 auto;" width="40%">
