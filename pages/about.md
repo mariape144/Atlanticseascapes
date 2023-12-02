@@ -42,7 +42,8 @@ Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acces
 
 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
+<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it. 
 {% include cb/visorpdf.md %} 
-{% include cb/about_the_about.md %} 
+{% include cb/about_the_about.md %}  -->
+
 
