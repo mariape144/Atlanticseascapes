@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/objects/agn_smp_4_80a.jpg" %} 
 
-{% include feature/nav-menu.html sections="Atlantic Seascapes;Sobre nosotros" %}
+{% include feature/nav-menu.html sections="Atlantic Seascapes;Sobre nosotros;Equipo Archivista" %}
 
 ## Sobre Atlantic Seascapes Project
 
@@ -40,6 +40,7 @@ Por tanto, en aras de poner estos documentos al público, este proyecto ha inici
     Considero que Atlantic Seascapes es un instrumento incomparable para mirar al mar y entender que, pese a la preponderancia de las narrativas históricas terrocéntricas, los mares y océanos del mundo están llenos de historia(s).
 </p>
 </div>
+
 
 ## <center>Equipo archivista</center> 
 <div style="display: flex; justify-content: space-between;">
