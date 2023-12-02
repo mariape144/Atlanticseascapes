@@ -46,7 +46,7 @@ Por tanto, en aras de poner estos documentos al público, este proyecto ha inici
   <h3>Equipo archivista</h3>
   </div>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; text-align: center;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; text-align: justify;">
   <div style="width: 40%; margin-bottom: 20px;">
     <img src="/objects/Fotomeliza.jpeg" alt="FotoMeliza" style="display: block; margin: 0 auto;" width="40%">
     <h3>Meliza Pinzón</h3>
