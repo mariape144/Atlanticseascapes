@@ -8,7 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 {% include feature/jumbotron.html objectid="/objects/agn_smp_4_80a.jpg" %} 
-
 {% include feature/nav-menu.html sections="Atlantic Seascapes;Sobre nosotros;Equipo Archivista" %}
 ## Sobre Atlantic Seascapes Project
 
