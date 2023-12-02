@@ -23,11 +23,11 @@ Por tanto, en aras de poner estos documentos al público, este proyecto ha inici
 
 <center>
 
-# Centered Text
+## Sobre nosotros
 
 </center> 
 
-## Sobre nosotros
+
 
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 40%;">
