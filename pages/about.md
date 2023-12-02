@@ -6,14 +6,10 @@ permalink: /about.html
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-
-
 ---
-
 {% include feature/jumbotron.html objectid="/objects/agn_smp_4_80a.jpg" %} 
 
 {% include feature/nav-menu.html sections="Atlantic Seascapes;Sobre nosotros;Equipo Archivista" %}
-
 ## Sobre Atlantic Seascapes Project
 
 Este archivo digital nace de la preocupación por estudiar nuestro pasado, un pasado compartido por la experiencias caribeñas. Desde siempre, el Caribe, y en su mayor extensión el Atlántico, ha sido un espacio de encuentros de indígenas, cimarrones, piratas, corsarios, marineros, pescadores y esclavos (as). Esta historia compartida vertebró las relaciones intramericanas, así como las de América con Europa, Asia y África. En este espacio de encuentros, el Atlántico fue también el puente para ideas y experiencias. Esta característica, en particular, contribuyó a la difusión de ideas sobre libertad y nación a principios del siglo XIX. Durante las independencias de los países latinoamericanos, la gente de mar fue la protagonista de una historia atlántica. 
@@ -29,6 +25,7 @@ Por tanto, en aras de poner estos documentos al público, este proyecto ha inici
   <div style="width: 40%; margin-bottom: 20px;">
     <img src="/objects/FotoMP.jpeg" alt="FotoMP" style="display: block; margin: 0 auto;" width="40%">
     <h3>María Paula Corredor</h3>
+    <h2>Diseñadora del proyecto</h2>
     <p>Soy historiadora y archivista colombiana. Actualmente estoy estudiando el doctorado en historia en la <a href="https://history.cornell.edu/maria-corredor-acosta">Universidad de Cornell</a>. Hago parte de Latin American and the Caribbean Studies de la misma universidad. Mis investigaciones se centran en la historia de América Latina colonial y del Caribe. Aunque soy historiadora, siempre me ha apasionado la antropología y la geografía. Por ello, abordo la historia desde una perspectiva interdisciplinaria que tiene en cuenta las relaciones de las personas con el espacio. 
     Este proyecto para mí es la oportunidad de explorar el Atlántico como espacio de encuentros, pero también de poner a disposición de un público amplio los documentos que de otra manera no podrían consultarse. En especial, aspiro a que estas colecciones sean útiles para los estudiantes e investigadores de Colombia, Venezuela y Panamá que busquen entender nuestra propia historia. </p>
   </div>
