@@ -6,6 +6,8 @@ permalink: /about.html
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
+# Para introducir info de la pag {% include cb/about_the_about.md %}
+
 ---
 
 {% include feature/jumbotron.html objectid="/objects/agn_smp_4_80a.jpg" %} 
