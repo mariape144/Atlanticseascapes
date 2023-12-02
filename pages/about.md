@@ -22,7 +22,7 @@ Empezamos esta iniciativa con los documentos de la Secretaría de Marina de Colo
 Por tanto, en aras de poner estos documentos al público, este proyecto ha iniciado con dos facetas distintas pero complementarias. Por un lado, la parte archivística que constó de digitalización y descripción documental, que forma el alma de este proyecto. Dos historiadores de la Universidad de Cartagena han hecho este esfuerzo posible: Meliza Pinzón y Juan Diego Suárez. Por otro lado, el diseño web, que constó del apoyo de [Caribbean Digital Scholarship Collective (CDSC)](https://cdscollective.org/) y de Cornell Library Digital Humanities, en particular de Eliza Betinger e Iliana Burgos, a quienes agradezco infinitamente. Por último, agradezco a la Universidad de Idaho por haber desarrollado este formato de [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv)., que es esqueleto de esta página web. 
 ## Sobre nosotros
 
-<div>
+
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 40%;">
     <img src="/objects/Fotomeliza.jpeg" alt="FotoMeliza" style="display: block; margin: 0 auto;" width="40%">
@@ -34,6 +34,24 @@ Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acces
      <img src="/objects/FotoJD.jpeg" alt="FotoJD" style="display: block; margin: 0 auto;" width="45%">
     <h3 style="text-align: center;">Juan Diego Suárez</h3>
     <p style="text-align: left;">Mi nombre es Juan Diego Suarez Meza, tengo 22 años y soy estudiante de historia de la Universidad de Cartagena. Mi campo de investigación es la historia ambiental, para mi resulta fascinante estudiar cómo la naturaleza y la sociedad humana chocan y se entrelazan construyendo relaciones históricas que pueden rastrearse y contrastarse. Pienso que Seascapes Project no solo representa un acceso documental digital como otros que ya existen sino que ejemplifica la búsqueda y lucha por construir una historia marítima interdisciplinar, con horizontes que van más allá del sujeto histórico como individuo, preocupándose por sus relaciones y el espacio que habitaba.</p>
+</div>
+
+</div>
+
+<div class="card mb-3{% if include.float %} feature-float-{{ include.float }}{% endif %}{% if include.width %} feature-w-{{ include.width }}{% endif %}{% if include.centered %} mx-auto{% endif %}">
+    <div class="row no-gutters">
+        <div class="col-md-6">
+            {% if include.src1 %}<img class="card-img-top" src="/objects/Fotomeliza.jpeg" alt="{{ include.alt1 | escape }}">{%- endif -%}
+        </div>
+        <div class="col-md-6">
+            {% if include.src2 %}<img class="card-img-top" src="{{ include.src2 }}" alt="{{ include.alt2 | escape }}">{%- endif -%}
+        </div>
+    </div>
+    {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{%- endif -%}
+    <div class="card-body">
+        {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{%- endif -%}
+        <div class="card-text">{{ include.text | markdownify }}</div>
+    </div>
 </div>
 
 
