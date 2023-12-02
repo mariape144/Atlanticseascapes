@@ -25,43 +25,33 @@ Por tanto, en aras de poner estos documentos al público, este proyecto ha inici
 
 ## <center>Sobre nosotros</center> 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-
-  <!-- First section: One image with text -->
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <div style="width: 40%; margin-bottom: 20px;">
     <img src="/objects/FotoMP" alt="FotoMP" style="display: block; margin: 0 auto;" width="40%">
-    <h3 style="text-align: center;">María Paula Corredor</h3>
-    <p style="text-align: left;">Soy historiadora y archivista colombiana. Actualmente estoy estudiando el doctorado en historia en la Universidad de Cornell. Hago parte de Latin American and the Caribbean Studies de la misma universidad. Mis investigaciones se centran en la historia de América Latina colonial y del Caribe. Aunque soy historiadora, siempre me ha apasionado la antropología y la geografía. Por ello, abordo la historia desde una perspectiva interdisciplinaria que tiene en cuenta las relaciones de las personas con el espacio. 
-    Este proyecto para mí es la oportunidad de explorar el Atlántico como espacio de encuentros, pero también de poner a disposición de un público amplio los documentos que de otra manera no podrían consultarse. En especial, aspiro a que estas colecciones sean útiles para los estudiantes e investigadores de Colombia, Venezuela y Panamá que busquen entender nuestra propia historia. 
-    </p>
+    <h3>María Paula Corredor</h3>
+    <p>Soy historiadora y archivista colombiana. Actualmente estoy estudiando el doctorado en historia en la Universidad de Cornell. Hago parte de Latin American and the Caribbean Studies de la misma universidad...</p>
   </div>
 
-  <!-- Second section: One image with text -->
   <div style="width: 40%; margin-bottom: 20px;">
     <img src="/objects/FotoErnesto.jpeg" alt="FotoErnesto" style="display: block; margin: 0 auto;" width="45%">
-    <h3 style="text-align: center;">Ernesto Bassi</h3>
-    <p style="text-align: left;">Soy profesor de historia en la Universidad de Cornell en Estados Unidos. Estudio las geografías marineras del Caribe en el siglo XVIII. En particular, me interesa la circulación de conocimientos, personas e ideas y el papel que juegan en la configuración de proyectos geopolíticos. 
-    Considero que Atlantic Seascapes es un instrumento incomparable para mirar al mar y entender que, pese a la preponderancia de las narrativas históricas terrocéntricas, los mares y océanos del mundo están llenos de historia(s).
-    </p>
-  </div>
-
-  <!-- Third section: Two images side by side -->
-  <div style="width: 48%; margin-bottom: 20px;">
-    <img src="/objects/Fotomeliza.jpeg" alt="FotoMeliza" style="display: block; margin: 0 auto;" width="40%">
-    <h3 style="text-align: center;">Meliza Pinzón</h3>
-    <p style="text-align: left;">Soy historiadora por la Universidad de Cartagena, Colombia. Hago parte del grupo de investigación H-ESOPO (Historia económica, social y política) del Laboratorio de Investigación Histórica en Estudios Coloniales de la misma institución. Me interesa la historia social y económica a través del estudio de las instituciones comerciales del imperio español durante la edad moderna, al analizarlas desde los propios actores, sus redes y estrategias.  
-    Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acceso y el análisis a la información de la historia del Caribe y el Atlántico.
-    </p>
-  </div>
-
-  <div style="width: 48%; margin-bottom: 20px;">
-    <img src="/objects/FotoJD.jpeg" alt="FotoJD" style="display: block; margin: 0 auto;" width="45%">
-    <h3 style="text-align: center;">Juan Diego Suárez</h3>
-    <p style="text-align: left;">Mi nombre es Juan Diego Suarez Meza, tengo 22 años y soy estudiante de historia de la Universidad de Cartagena. Mi campo de investigación es la historia ambiental, para mi resulta fascinante estudiar cómo la naturaleza y la sociedad humana chocan y se entrelazan construyendo relaciones históricas que pueden rastrearse y contrastarse. Pienso que Seascapes Project no solo representa un acceso documental digital como otros que ya existen sino que ejemplifica la búsqueda y lucha por construir una historia marítima interdisciplinar, con horizontes que van más allá del sujeto histórico como individuo, preocupándose por sus relaciones y el espacio que habitaba.
-    </p>
+    <h3>Ernesto Bassi</h3>
+    <p>Soy profesor de historia en la Universidad de Cornell en Estados Unidos. Estudio las geografías marineras del Caribe en el siglo XVIII. En particular, me interesa la circulación de conocimientos, personas e ideas y el papel que juegan en la configuración de proyectos geopolíticos...</p>
   </div>
 </div>
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; text-align: center;">
+  <div style="width: 40%; margin-bottom: 20px;">
+    <img src="/objects/Fotomeliza.jpeg" alt="FotoMeliza" style="display: block; margin: 0 auto;" width="40%">
+    <h3>Meliza Pinzón</h3>
+    <p>Soy historiadora por la Universidad de Cartagena, Colombia. Hago parte del grupo de investigación H-ESOPO (Historia económica, social y política) del Laboratorio de Investigación Histórica en Estudios Coloniales de la misma institución...</p>
+  </div>
+
+  <div style="width: 40%; margin-bottom: 20px;">
+    <img src="/objects/FotoJD.jpeg" alt="FotoJD" style="display: block; margin: 0 auto;" width="45%">
+    <h3>Juan Diego Suárez</h3>
+    <p>Mi nombre es Juan Diego Suarez Meza, tengo 22 años y soy estudiante de historia de la Universidad de Cartagena. Mi campo de investigación es la historia ambiental, para mi resulta fascinante estudiar cómo la naturaleza y la sociedad humana chocan y se entrelazan construyendo relaciones históricas...</p>
+  </div>
+</div>
 
 
 </div>
