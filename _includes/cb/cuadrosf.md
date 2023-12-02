@@ -15,4 +15,3 @@ Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acces
     </div>
 </div>
 
-</div>
