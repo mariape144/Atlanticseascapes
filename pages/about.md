@@ -36,7 +36,7 @@ Por tanto, en aras de poner estos documentos al público, este proyecto ha inici
   <div style="width: 40%; margin-bottom: 20px;">
     <img src="/objects/FotoErnesto.jpeg" alt="FotoErnesto" style="display: block; margin: 0 auto;" width="45%">
     <h3>Ernesto Bassi</h3>
-    <p>Soy profesor de historia en la Universidad de Cornell en Estados Unidos. Estudio las geografías marineras del Caribe en el siglo XVIII. En particular, me interesa la circulación de conocimientos, personas e ideas y el papel que juegan en la configuración de proyectos geopolíticos. 
+    <p>Soy profesor de historia en la <a href="https://history.cornell.edu/ernesto-bassi">Universidad de Cornell</a> en Estados Unidos. Estudio las geografías marineras del Caribe en el siglo XVIII. En particular, me interesa la circulación de conocimientos, personas e ideas y el papel que juegan en la configuración de proyectos geopolíticos. 
     Considero que Atlantic Seascapes es un instrumento incomparable para mirar al mar y entender que, pese a la preponderancia de las narrativas históricas terrocéntricas, los mares y océanos del mundo están llenos de historia(s).</p>
   </div>
 </div>
