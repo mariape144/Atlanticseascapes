@@ -21,14 +21,9 @@ Empezamos esta iniciativa con los documentos de la Secretaría de Marina de Colo
 
 Por tanto, en aras de poner estos documentos al público, este proyecto ha iniciado con dos facetas distintas pero complementarias. Por un lado, la parte archivística que constó de digitalización y descripción documental, que forma el alma de este proyecto. Dos historiadores de la Universidad de Cartagena han hecho este esfuerzo posible: Meliza Pinzón y Juan Diego Suárez. Por otro lado, el diseño web, que constó del apoyo de [Caribbean Digital Scholarship Collective (CDSC)](https://cdscollective.org/) y de Cornell Library Digital Humanities, en particular de Eliza Betinger e Iliana Burgos, a quienes agradezco infinitamente. Por último, agradezco a la Universidad de Idaho por haber desarrollado este formato de [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv)., que es esqueleto de esta página web. 
 
-
-
 ## <center>Sobre nosotros</center> 
 
-
-
-
-
+## <center>Equipo archivista</center> 
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 40%;">
     <img src="/objects/Fotomeliza.jpeg" alt="FotoMeliza" style="display: block; margin: 0 auto;" width="40%">
