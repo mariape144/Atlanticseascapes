@@ -16,19 +16,3 @@ Me entusiasma pertenecer al proyecto Atlantic Seascapes porque facilita el acces
 </div>
 
 </div>
-
-<div class="card mb-3{% if include.float %} feature-float-{{ include.float }}{% endif %}{% if include.width %} feature-w-{{ include.width }}{% endif %}{% if include.centered %} mx-auto{% endif %}">
-    <div class="row no-gutters">
-        <div class="col-md-6">
-            {% if include.src1 %}<img class="card-img-top" src="/objects/Fotomeliza.jpeg" alt="{{ include.alt1 | escape }}">{%- endif -%}
-        </div>
-        <div class="col-md-6">
-            {% if include.src2 %}<img class="card-img-top" src="{{ include.src2 }}" alt="{{ include.alt2 | escape }}">{%- endif -%}
-        </div>
-    </div>
-    {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{%- endif -%}
-    <div class="card-body">
-        {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{%- endif -%}
-        <div class="card-text">{{ include.text | markdownify }}</div>
-    </div>
-</div>
