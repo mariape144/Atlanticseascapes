@@ -4,7 +4,7 @@ creator,Productor,,,DCTERMS.creator,creator
 date,Fecha de creación,,,DCTERMS.created,dateCreated
 description,Descripción,,,DCTERMS.description,description
 subject,Temas,true,,DCTERMS.subject,keywords
-ships,Embarcaciones,true,,,
+ships,Embarcaciones,true,,DCTERMS.ships,ships
 location,Ubicación,,,,contentLocation
 latitude,Latitud,,,,
 longitude,Longitud,,,,
