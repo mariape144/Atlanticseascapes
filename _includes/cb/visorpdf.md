@@ -1,1 +1,1 @@
-{% include feature/pdf.html objectid="agn_sr_gym_328_83_86" width="50" %}
+{% include feature/pdf.html objectid="agn_sr_gym_328_83_86" width="40" %}
