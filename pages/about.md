@@ -29,7 +29,7 @@ Por tanto, en aras de poner estos documentos al público, este proyecto ha inici
     Este proyecto para mí es la oportunidad de explorar el Atlántico como espacio de encuentros, pero también de poner a disposición de un público amplio los documentos que de otra manera no podrían consultarse. En especial, aspiro a que estas colecciones sean útiles para los estudiantes e investigadores de Colombia, Venezuela y Panamá que busquen entender nuestra propia historia. </p>
   </div>
 
-  <div style="width: 40%; margin-bottom: 20px;">
+  <div style="width: 60%; margin-bottom: 20px;">
     <img src="/objects/FotoErnesto.jpeg" alt="FotoErnesto" style="display: block; margin: 0 auto;" width="45%">
     <h3 style="text-align: center;">Ernesto Bassi</h3>
     <p>Soy profesor de historia en la <a href="https://history.cornell.edu/ernesto-bassi">Universidad de Cornell</a> en Estados Unidos. Estudio las geografías marineras del Caribe en el siglo XVIII. En particular, me interesa la circulación de conocimientos, personas e ideas y el papel que juegan en la configuración de proyectos geopolíticos. 
