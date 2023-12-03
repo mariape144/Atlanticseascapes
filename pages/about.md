@@ -21,7 +21,7 @@ Por tanto, en aras de poner estos documentos al público, este proyecto ha inici
 ## <center>Sobre nosotros</center> 
 
 <div style="display: flex; flex-direction: column; align-items: center; text-align: justify;">
-  <div style="width: 40%; margin-bottom: 20px;">
+  <div style="width: 60%; margin-bottom: 20px;">
     <img src="/objects/FotoMP.jpeg" alt="FotoMP" style="display: block; margin: 0 auto;" width="40%">
     <h3 style="text-align: center;">María Paula Corredor</h3>
     <h4 style="text-align: center;">(Diseñadora del proyecto)</h4>
