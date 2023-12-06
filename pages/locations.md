@@ -9,5 +9,5 @@ cloud-fields: site.data.theme.locations-fields
 
 ## Buscar por lugares
 
-Usa esta nube de palabras para filtrar tu búsqueda de acuerdo a los lugares de tu interés.
+Esta nube de palabras es una ayuda visual para la investigación. Permite ver cuáles son los lugares más mencionados dentro de la documentación. 
 El tamaño de la palabra corresponde a la frecuencia en que se encuentra en la colección. 
